@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\palkanvjq\source\repos\oop5laba26\oop5laba26\source.cpp(172): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\palkanvjq\source\repos\oop5laba26\oop5laba26\source.cpp(435): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\palkanvjq\source\repos\oop5laba26\oop5laba26\source.cpp(603): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\palkanvjq\source\repos\oop5laba26\oop5laba26\source.cpp(624): warning C4101: lptm: неиспользованная локальная переменная
+  Создание кода
+  All 54 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  OOP5laba26.vcxproj -> C:\Users\PalkanVjq\source\repos\OOP5laba26\Release\OOP5laba26.exe
